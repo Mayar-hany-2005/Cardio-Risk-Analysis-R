@@ -1,6 +1,6 @@
 # Cardio-Risk-Analysis-R
 <p align="center">
-  <img src="images/heart_banner.png" width="100%" alt="Heart Disease Analysis Banner">
+  <img src="imagesheart_banner.png" width="100%" alt="Heart Disease Analysis Banner">
 </p>
 
 # 🩺 Heart Disease Diagnostic Analysis & Predictive Modeling
